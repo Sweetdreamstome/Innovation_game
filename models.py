@@ -25,6 +25,7 @@ class Constants(BaseConstants):
     max_investment=8
     max_units_cost=20
     k=1.5 #un parámetro para la inversión
+    holi=6
 
 
 class Subsession(BaseSubsession):
